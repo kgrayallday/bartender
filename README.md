@@ -1,3 +1,3 @@
-<img style="float: left;" src="BartenderBeer.png" width="100" />
+![Bartender Beer](BartenderBeer.png)
 #Bartender
 Simple 128 Code Barcode Generator 
